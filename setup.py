@@ -8,7 +8,7 @@ requires = [
             ]
 
 setup(name='logentries-envs',
-      version='0.0.2',
+      version='0.0.3',
       description='Logentries Handler to get Token from environment variable.',
       author='Daniel Debonzi',
       author_email='debonzi@gmail.com',
